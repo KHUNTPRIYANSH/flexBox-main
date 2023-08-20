@@ -1,0 +1,89 @@
+{
+  "objects": [
+    {
+      "name": "Emily",
+      "image": "https://avatars.dicebear.com/api/human/1.svg",
+      "job": "Software Engineer"
+    },
+    {
+      "name": "Jacob",
+      "image": "https://avatars.dicebear.com/api/human/2.svg",
+      "job": "Data Analyst"
+    },
+    {
+      "name": "Liam",
+      "image": "https://avatars.dicebear.com/api/human/3.svg",
+      "job": "Marketing Manager"
+    },
+    {
+      "name": "Olivia",
+      "image": "https://avatars.dicebear.com/api/human/4.svg",
+      "job": "Graphic Designer"
+    },
+    {
+      "name": "Noah",
+      "image": "https://avatars.dicebear.com/api/human/5.svg",
+      "job": "Financial Analyst"
+    },
+    {
+      "name": "Ava",
+      "image": "https://avatars.dicebear.com/api/human/6.svg",
+      "job": "Project Manager"
+    },
+    {
+      "name": "William",
+      "image": "https://avatars.dicebear.com/api/human/7.svg",
+      "job": "Business Analyst"
+    },
+    {
+      "name": "Sophia",
+      "image": "https://avatars.dicebear.com/api/human/8.svg",
+      "job": "UX Designer"
+    },
+    {
+      "name": "Ethan",
+      "image": "https://avatars.dicebear.com/api/human/9.svg",
+      "job": "Product Manager"
+    },
+    {
+      "name": "Mia",
+      "image": "https://avatars.dicebear.com/api/human/10.svg",
+      "job": "Sales Representative"
+    },
+    {
+      "name": "Benjamin",
+      "image": "https://avatars.dicebear.com/api/human/11.svg",
+      "job": "Software Developer"
+    },
+    {
+      "name": "Emma",
+      "image": "https://avatars.dicebear.com/api/human/12.svg",
+      "job": "Data Scientist"
+    },
+    {
+      "name": "Aiden",
+      "image": "https://avatars.dicebear.com/api/human/13.svg",
+      "job": "Marketing Analyst"
+    },
+    {
+      "name": "Isabella",
+      "image": "https://avatars.dicebear.com/api/human/14.svg",
+      "job": "Art Director"
+    },
+    {
+      "name": "Carter",
+      "image": "https://avatars.dicebear.com/api/human/15.svg",
+      "job": "Financial Advisor"
+    },
+    {
+      "name": "Charlotte",
+      "image": "https://avatars.dicebear.com/api/human/16.svg",
+      "job": "Product Designer"
+    },
+    {
+      "name": "Lucas",
+      "image": "https://avatars.dicebear.com/api/human/17.svg",
+      "job": "Business Consultant"
+    }
+  ]
+}
